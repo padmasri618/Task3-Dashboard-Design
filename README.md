@@ -1,4 +1,4 @@
-# Task 4 – Credit Card Analytics Dashboard
+# Task 3 – Credit Card Analytics Dashboard
 
 ##  Objective
 Create an interactive Tableau dashboard using a credit card dataset to uncover card usage trends and risk factors.
